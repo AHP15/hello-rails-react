@@ -121,9 +121,8 @@ You can deploy this project using:
 
 👤 **Valentine Blaze**
 
-- GitHub: [@V-blaze](https://github.com/V-Blaze)
-- Twitter: [@blaze_valentine](https://twitter.com/blaze_valentine)
-- LinkedIn: [@valentine-blaze](https://www.linkedin.com/in/valentine-blaze/)
+- GitHub: [@V-blaze](https://github.com/Abdessittir)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
